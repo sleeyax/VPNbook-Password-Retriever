@@ -65,10 +65,5 @@ namespace VPNbook_Downloader
                 textBox3.Enabled = false;
             }
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Made by ictground. Please visit www.ictground.com for more!", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
-        }
     }
 }
